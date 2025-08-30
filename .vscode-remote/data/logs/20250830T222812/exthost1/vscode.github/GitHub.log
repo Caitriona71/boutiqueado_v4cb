@@ -1,0 +1,2 @@
+2025-08-30 22:28:25.339 [info] Log level: Info
+2025-08-30 22:55:57.175 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for Caitriona71/boutiqueado_v4cb/e62bfcfc497cfc7f889935a3fde24ce7fe8c8ea2: TypeError: Cannot read properties of null (reading 'author')
