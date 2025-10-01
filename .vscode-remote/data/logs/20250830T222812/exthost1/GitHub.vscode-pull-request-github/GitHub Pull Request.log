@@ -1,0 +1,38 @@
+2025-08-30 22:28:26.367 [warning] /home/gitpod/.ssh/config: ENOENT: no such file or directory, open '/home/gitpod/.ssh/config'
+2025-08-30 22:28:26.367 [info] [Activation] Extension version: 0.114.3
+2025-08-30 22:28:26.811 [info] [Authentication] Creating hub for .com
+2025-08-30 22:28:26.940 [info] [Activation] Looking for git repository
+2025-08-30 22:28:26.940 [info] [Activation] Found 0 repositories during activation
+2025-08-30 22:28:26.940 [info] [Activation] Git repository found, initializing review manager and pr tree view.
+2025-08-30 22:28:26.944 [info] [GitAPI] Registering git provider
+2025-08-30 22:28:26.944 [info] [Review+0] Validate state in progress
+2025-08-30 22:28:26.944 [info] [Review+0] Validating state...
+2025-08-30 22:28:26.986 [info] [FolderRepositoryManager+0] Found GitHub remote for folder /workspace/boutiqueado_v4cb
+2025-08-30 22:28:27.426 [info] [FolderRepositoryManager+0] Trying to use globalState for assignableUsers.
+2025-08-30 22:28:27.459 [info] [Review+0] No matching pull request metadata found locally for current branch main
+2025-08-30 22:28:27.602 [info] [FolderRepositoryManager+0] GlobalState does not exist for assignableUsers.
+2025-08-30 22:28:27.674 [warning] [GitHubServer] No response from host https://origi/n: request to https://origi/api/v3/rate_limit failed, reason: getaddrinfo ENOTFOUND origi
+2025-08-30 22:28:27.887 [warning] [Review+0] Failed to check GitHub for PR branch: Not Found - https://docs.github.com/rest
+2025-08-30 22:28:27.887 [info] [Review+0] No matching pull request metadata found on GitHub for current branch main
+2025-08-30 22:28:28.147 [info] [FolderRepositoryManager+0] Using in-memory cached assignable users.
+2025-08-30 22:30:05.180 [info] [Activation] Repo state for file:///workspace/boutiqueado_v4cb changed.
+2025-08-30 22:30:05.180 [info] [Activation] Repo file:///workspace/boutiqueado_v4cb has already been setup.
+2025-08-30 22:55:56.630 [info] [Review+0] Validate state in progress
+2025-08-30 22:55:56.630 [info] [Review+0] Validating state...
+2025-08-30 22:55:56.795 [info] [FolderRepositoryManager+0] Found GitHub remote for folder /workspace/boutiqueado_v4cb
+2025-08-30 22:55:56.796 [info] [FolderRepositoryManager+0] Using in-memory cached assignable users.
+2025-08-30 22:55:56.810 [info] [Review+0] No matching pull request metadata found locally for current branch main
+2025-08-30 22:55:57.049 [warning] [GitHubRepository+0.1] Fetching default branch failed: HttpError: Not Found - https://docs.github.com/rest
+2025-08-30 22:55:57.049 [error] [GitHubRepository+0.1] Unable to fetch issues with query: TypeError: Cannot read properties of null (reading 'search')
+2025-08-30 22:55:57.063 [warning] [Review+0] Failed to check GitHub for PR branch: Not Found - https://docs.github.com/rest
+2025-08-30 22:55:57.064 [info] [Review+0] No matching pull request metadata found on GitHub for current branch main
+2025-08-30 22:55:57.087 [warning] [GitHubRepository+0.1] Fetching default branch failed: HttpError: Not Found - https://docs.github.com/rest
+2025-08-30 22:55:57.087 [error] [GitHubRepository+0.1] Unable to fetch issues with query: TypeError: Cannot read properties of null (reading 'search')
+2025-08-30 22:55:57.096 [warning] [GitHubRepository+0.1] Fetching default branch failed: HttpError: Not Found - https://docs.github.com/rest
+2025-08-30 22:55:57.096 [error] [GitHubRepository+0.1] Unable to fetch issues with query: TypeError: Cannot read properties of null (reading 'search')
+2025-08-30 22:56:08.615 [info] [Review+0] Validate state in progress
+2025-08-30 22:56:08.615 [info] [Review+0] Validating state...
+2025-08-30 22:56:08.663 [info] [FolderRepositoryManager+0] Found GitHub remote for folder /workspace/boutiqueado_v4cb
+2025-08-30 22:56:08.664 [info] [FolderRepositoryManager+0] Using in-memory cached assignable users.
+2025-08-30 22:56:08.672 [info] [Review+0] No matching pull request metadata found locally for current branch main
+2025-08-30 22:56:09.051 [info] [Review+0] No matching pull request metadata found on GitHub for current branch main

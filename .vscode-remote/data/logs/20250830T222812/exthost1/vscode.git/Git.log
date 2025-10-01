@@ -1,0 +1,136 @@
+2025-08-30 22:28:25.253 [info] [main] Log level: Info
+2025-08-30 22:28:25.253 [info] [main] Validating found git in: "git"
+2025-08-30 22:28:25.253 [info] [main] Using git "2.51.0" from "git"
+2025-08-30 22:28:25.253 [info] [Model][doInitialScan] Initial repository scan started
+2025-08-30 22:28:25.253 [info] > git rev-parse --show-toplevel [75ms]
+2025-08-30 22:28:25.253 [info] > git rev-parse --git-dir --git-common-dir [53ms]
+2025-08-30 22:28:25.253 [info] [Model][openRepository] Opened repository (path): /workspace/boutiqueado_v4cb
+2025-08-30 22:28:25.253 [info] [Model][openRepository] Opened repository (real path): /workspace/boutiqueado_v4cb
+2025-08-30 22:28:25.253 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-08-30 22:28:25.253 [info] > git config --get commit.template [7ms]
+2025-08-30 22:28:25.263 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2025-08-30 22:28:25.264 [warning] [Git][getBranch] No such branch: main
+2025-08-30 22:28:25.288 [info] > git status -z -uall [13ms]
+2025-08-30 22:28:25.289 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2025-08-30 22:28:25.319 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2025-08-30 22:28:25.319 [warning] [Git][getBranch] No such branch: main
+2025-08-30 22:28:25.320 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2025-08-30 22:28:25.325 [info] > git config --get commit.template [12ms]
+2025-08-30 22:28:25.529 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [192ms]
+2025-08-30 22:28:25.529 [warning] [Git][getBranch] No such branch: main
+2025-08-30 22:28:25.554 [info] > git status -z -uall [12ms]
+2025-08-30 22:28:25.559 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms]
+2025-08-30 22:28:27.453 [info] > git config --get --local branch.main.github-pr-owner-number [17ms]
+2025-08-30 22:28:27.453 [warning] [Git][config] git config failed: Failed to execute git
+2025-08-30 22:28:27.461 [info] > git config --get --local branch.main.remote [2ms]
+2025-08-30 22:28:27.469 [info] > git config --get --local branch.main.merge [2ms]
+2025-08-30 22:30:04.725 [info] > git check-ignore -v -z --stdin [2ms]
+2025-08-30 22:30:05.165 [info] > git config --get commit.template [7ms]
+2025-08-30 22:30:05.166 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-30 22:30:05.166 [warning] [Git][getBranch] No such branch: main
+2025-08-30 22:30:05.178 [info] > git status -z -uall [7ms]
+2025-08-30 22:30:05.179 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-30 22:32:34.196 [info] > git config --get commit.template [8ms]
+2025-08-30 22:32:34.196 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-30 22:32:34.196 [warning] [Git][getBranch] No such branch: main
+2025-08-30 22:32:34.213 [info] > git status -z -uall [11ms]
+2025-08-30 22:32:34.215 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-30 22:32:34.274 [info] > git check-ignore -v -z --stdin [3ms]
+2025-08-30 22:34:03.414 [info] > git config --get commit.template [9ms]
+2025-08-30 22:34:03.415 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-08-30 22:34:03.415 [warning] [Git][getBranch] No such branch: main
+2025-08-30 22:34:03.438 [info] > git status -z -uall [13ms]
+2025-08-30 22:34:03.439 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-30 22:34:03.485 [info] > git check-ignore -v -z --stdin [2ms]
+2025-08-30 22:34:08.456 [info] > git config --get commit.template [7ms]
+2025-08-30 22:34:08.457 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-30 22:34:08.458 [warning] [Git][getBranch] No such branch: main
+2025-08-30 22:34:08.471 [info] > git status -z -uall [7ms]
+2025-08-30 22:34:08.473 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-30 22:35:36.706 [info] > git config --get commit.template [9ms]
+2025-08-30 22:35:36.706 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-30 22:35:36.707 [warning] [Git][getBranch] No such branch: main
+2025-08-30 22:35:36.733 [info] > git status -z -uall [13ms]
+2025-08-30 22:35:36.735 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-30 22:41:41.931 [info] > git check-ignore -v -z --stdin [4ms]
+2025-08-30 22:41:42.421 [info] > git config --get commit.template [4ms]
+2025-08-30 22:41:42.436 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-30 22:41:42.437 [warning] [Git][getBranch] No such branch: main
+2025-08-30 22:41:42.455 [info] > git status -z -uall [9ms]
+2025-08-30 22:41:42.456 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-30 22:41:51.334 [info] > git check-ignore -v -z --stdin [4ms]
+2025-08-30 22:45:30.517 [info] > git config --get commit.template [5ms]
+2025-08-30 22:45:30.534 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-08-30 22:45:30.534 [warning] [Git][getBranch] No such branch: main
+2025-08-30 22:45:30.551 [info] > git status -z -uall [9ms]
+2025-08-30 22:45:30.553 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-30 22:53:01.185 [info] > git config --get commit.template [6ms]
+2025-08-30 22:53:01.186 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-30 22:53:01.186 [warning] [Git][getBranch] No such branch: main
+2025-08-30 22:53:01.198 [info] > git status -z -uall [6ms]
+2025-08-30 22:53:01.199 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-30 22:53:12.340 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n51 --shortstat --follow -- /workspace/boutiqueado_v4cb/README.md [2ms]
+2025-08-30 22:53:12.340 [info] fatal: your current branch 'main' does not have any commits yet
+2025-08-30 22:53:12.348 [info] > git hash-object -t tree /dev/null [2ms]
+2025-08-30 22:53:15.839 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [24ms]
+2025-08-30 22:53:15.839 [info] fatal: bad revision 'refs/heads/main'
+2025-08-30 22:53:15.840 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2025-08-30 22:53:16.350 [info] > git check-ignore -v -z --stdin [2ms]
+2025-08-30 22:53:25.572 [info] > git check-ignore -v -z --stdin [3ms]
+2025-08-30 22:53:34.950 [info] > git config --get commit.template [7ms]
+2025-08-30 22:53:34.951 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-30 22:53:34.951 [warning] [Git][getBranch] No such branch: main
+2025-08-30 22:53:34.969 [info] > git status -z -uall [11ms]
+2025-08-30 22:53:34.970 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-30 22:53:35.423 [info] > git show --textconv :README.md [37ms]
+2025-08-30 22:53:35.423 [info] > git show --textconv HEAD:README.md [28ms]
+2025-08-30 22:53:35.423 [info] > git ls-files --stage -- README.md [17ms]
+2025-08-30 22:53:35.436 [warning] [GitFileSystemProvider][readFile] File not found - git:/workspace/boutiqueado_v4cb/README.md.git?%7B%22path%22%3A%22%2Fworkspace%2Fboutiqueado_v4cb%2FREADME.md%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-08-30 22:53:35.441 [info] > git cat-file -s 610bf084bbaedd57a77947c7a17826ef90c20c90 [7ms]
+2025-08-30 22:53:35.442 [info] > git ls-tree -l HEAD -- README.md [20ms]
+2025-08-30 22:53:35.442 [info] fatal: Not a valid object name HEAD
+2025-08-30 22:53:35.442 [warning] [GitFileSystemProvider][stat] File not found - git:/workspace/boutiqueado_v4cb/README.md.git?%7B%22path%22%3A%22%2Fworkspace%2Fboutiqueado_v4cb%2FREADME.md%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-08-30 22:53:36.015 [info] > git config --get commit.template [11ms]
+2025-08-30 22:53:36.016 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-30 22:53:36.017 [warning] [Git][getBranch] No such branch: main
+2025-08-30 22:53:36.036 [info] > git status -z -uall [9ms]
+2025-08-30 22:53:36.037 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-30 22:53:36.131 [info] > git ls-files --stage -- README.md [3ms]
+2025-08-30 22:53:36.146 [info] > git cat-file -s 610bf084bbaedd57a77947c7a17826ef90c20c90 [8ms]
+2025-08-30 22:53:36.188 [info] > git show --textconv :README.md [3ms]
+2025-08-30 22:55:56.614 [info] > git config --get commit.template [6ms]
+2025-08-30 22:55:56.615 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-30 22:55:56.627 [info] > git status -z -uall [6ms]
+2025-08-30 22:55:56.628 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-30 22:55:56.804 [info] > git config --get --local branch.main.github-pr-owner-number [2ms]
+2025-08-30 22:55:56.804 [warning] [Git][config] git config failed: Failed to execute git
+2025-08-30 22:55:56.811 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [118ms]
+2025-08-30 22:55:56.815 [info] > git config --get --local branch.main.remote [5ms]
+2025-08-30 22:55:56.833 [info] > git config --get --local branch.main.merge [12ms]
+2025-08-30 22:55:57.689 [info] > git config --get commit.template [2ms]
+2025-08-30 22:55:57.697 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-30 22:55:57.710 [info] > git status -z -uall [7ms]
+2025-08-30 22:55:57.711 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-30 22:55:57.817 [info] > git ls-files --stage -- README.md [2ms]
+2025-08-30 22:55:57.824 [info] > git cat-file -s 610bf084bbaedd57a77947c7a17826ef90c20c90 [2ms]
+2025-08-30 22:55:57.860 [info] > git show --textconv :README.md [2ms]
+2025-08-30 22:56:08.593 [info] > git config --get commit.template [7ms]
+2025-08-30 22:56:08.595 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-30 22:56:08.610 [info] > git status -z -uall [8ms]
+2025-08-30 22:56:08.611 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-30 22:56:08.624 [info] > git merge-base refs/heads/main refs/remotes/origin/main [2ms]
+2025-08-30 22:56:08.633 [info] > git diff --name-status -z --diff-filter=ADMR e62bfcfc497cfc7f889935a3fde24ce7fe8c8ea2...refs/remotes/origin/main [2ms]
+2025-08-30 22:56:08.672 [info] > git config --get --local branch.main.github-pr-owner-number [2ms]
+2025-08-30 22:56:08.672 [warning] [Git][config] git config failed: Failed to execute git
+2025-08-30 22:56:08.677 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [14ms]
+2025-08-30 23:00:59.726 [info] > git show --textconv :.gitignore [7ms]
+2025-08-30 23:00:59.727 [info] > git ls-files --stage -- .gitignore [2ms]
+2025-08-30 23:00:59.735 [info] > git cat-file -s c7bfd08cc5d7c76df17250d4b7f4c2310806ad33 [2ms]
+2025-08-30 23:01:16.369 [info] > git show --textconv :README.md [11ms]
+2025-08-30 23:01:16.370 [info] > git ls-files --stage -- README.md [2ms]
+2025-08-30 23:01:16.381 [info] > git cat-file -s 610bf084bbaedd57a77947c7a17826ef90c20c90 [3ms]

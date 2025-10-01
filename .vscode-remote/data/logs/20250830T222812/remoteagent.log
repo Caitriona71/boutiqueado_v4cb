@@ -1,0 +1,122 @@
+2025-08-30 22:28:12.408 [info] 
+
+
+
+
+2025-08-30 22:28:12.431 [info] Extension host agent started.
+2025-08-30 22:28:12.445 [info] Started initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2025-08-30 22:28:12.583 [info] Completed initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2025-08-30 22:28:12.602 [info] Extension 'gitpod.gitpod-theme' v0.0.2 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'gitpod.gitpod-theme@1.2.3'.
+2025-08-30 22:28:15.576 [info] [192.168.114.139][f3319904][ManagementConnection] New connection established.
+2025-08-30 22:28:20.449 [info] Installing builtin extension 'github.vscode-pull-request-github'...
+2025-08-30 22:28:20.809 [info] Getting Manifest... github.vscode-pull-request-github
+2025-08-30 22:28:20.944 [info] Installing extension: github.vscode-pull-request-github {"isMachineScoped":true,"installPreReleaseVersion":false,"isBuiltin":true,"installGivenVersion":false,"isApplicationScoped":true,"profileLocation":{"$mid":1,"fsPath":"/workspace/.vscode-remote/extensions/extensions.json","external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"}}
+2025-08-30 22:28:21.428 [error] #6: https://open-vsx.org/vscode/gallery/vscode/github-authentication/latest - error GET connect ECONNREFUSED 127.0.0.1:80
+2025-08-30 22:28:21.429 [error] Error while getting the latest version for the extension vscode.github-authentication. connect ECONNREFUSED 127.0.0.1:80
+2025-08-30 22:28:21.792 [info] [192.168.114.139][9085d605][ExtensionHostConnection] New connection established.
+2025-08-30 22:28:21.799 [info] [192.168.114.139][9085d605][ExtensionHostConnection] <314> Launched Extension Host Process.
+2025-08-30 22:28:22.979 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.114.3-universal: github.vscode-pull-request-github
+2025-08-30 22:28:22.997 [info] Renamed to /workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.114.3-universal
+2025-08-30 22:28:23.064 [info] Extension installed successfully: github.vscode-pull-request-github file:///workspace/.vscode-remote/extensions/extensions.json
+2025-08-30 22:28:23.067 [info] Extension 'github.vscode-pull-request-github' v0.114.3 was successfully installed.
+2025-08-30 22:28:27.163 [info] Getting Manifest... vscjava.vscode-java-test
+2025-08-30 22:28:27.553 [info] Installing extension: vscjava.vscode-java-test {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":true,"installPreReleaseVersion":false,"context":{"skipPublisherTrust":true},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/workspace/.vscode-remote/extensions/extensions.json","external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"}}
+2025-08-30 22:28:27.554 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-test
+2025-08-30 22:28:28.305 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/vscjava.vscode-java-test-0.43.1-universal: vscjava.vscode-java-test
+2025-08-30 22:28:28.312 [info] Renamed to /workspace/.vscode-remote/extensions/vscjava.vscode-java-test-0.43.1-universal
+2025-08-30 22:28:28.343 [info] Extension installed successfully: vscjava.vscode-java-test file:///workspace/.vscode-remote/extensions/extensions.json
+2025-08-30 22:28:28.720 [info] Getting Manifest... vscjava.vscode-java-debug
+2025-08-30 22:28:29.021 [info] Installing extension: vscjava.vscode-java-debug {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":true,"installPreReleaseVersion":false,"context":{"skipPublisherTrust":true},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/workspace/.vscode-remote/extensions/extensions.json","external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"}}
+2025-08-30 22:28:29.022 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-debug
+2025-08-30 22:28:29.537 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/vscjava.vscode-java-debug-0.58.2-universal: vscjava.vscode-java-debug
+2025-08-30 22:28:29.543 [info] Renamed to /workspace/.vscode-remote/extensions/vscjava.vscode-java-debug-0.58.2-universal
+2025-08-30 22:28:29.561 [info] Extension installed successfully: vscjava.vscode-java-debug file:///workspace/.vscode-remote/extensions/extensions.json
+2025-08-30 22:28:29.976 [info] Getting Manifest... vscjava.vscode-java-pack
+2025-08-30 22:28:30.278 [info] Installing extension: vscjava.vscode-java-pack {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":true,"installPreReleaseVersion":false,"context":{"skipPublisherTrust":true},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/workspace/.vscode-remote/extensions/extensions.json","external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"}}
+2025-08-30 22:28:30.279 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-pack
+2025-08-30 22:28:30.848 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/vscjava.vscode-java-pack-0.29.2-universal: vscjava.vscode-java-pack
+2025-08-30 22:28:30.856 [info] Renamed to /workspace/.vscode-remote/extensions/vscjava.vscode-java-pack-0.29.2-universal
+2025-08-30 22:28:30.882 [info] Extension installed successfully: vscjava.vscode-java-pack file:///workspace/.vscode-remote/extensions/extensions.json
+2025-08-30 22:28:31.220 [info] Getting Manifest... vscjava.vscode-maven
+2025-08-30 22:28:31.524 [info] Installing extension: vscjava.vscode-maven {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":true,"installPreReleaseVersion":false,"context":{"skipPublisherTrust":true},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/workspace/.vscode-remote/extensions/extensions.json","external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"}}
+2025-08-30 22:28:31.524 [info] Installing the extension without checking dependencies and pack vscjava.vscode-maven
+2025-08-30 22:28:32.339 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/vscjava.vscode-maven-0.44.0-universal: vscjava.vscode-maven
+2025-08-30 22:28:32.351 [info] Renamed to /workspace/.vscode-remote/extensions/vscjava.vscode-maven-0.44.0-universal
+2025-08-30 22:28:32.367 [info] Extension installed successfully: vscjava.vscode-maven file:///workspace/.vscode-remote/extensions/extensions.json
+2025-08-30 22:28:32.780 [info] Getting Manifest... vscjava.vscode-java-dependency
+2025-08-30 22:28:33.174 [info] Installing extension: vscjava.vscode-java-dependency {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":true,"installPreReleaseVersion":false,"context":{"skipPublisherTrust":true},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/workspace/.vscode-remote/extensions/extensions.json","external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"}}
+2025-08-30 22:28:33.174 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-dependency
+2025-08-30 22:28:33.558 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/vscjava.vscode-java-dependency-0.24.1-universal: vscjava.vscode-java-dependency
+2025-08-30 22:28:33.565 [info] Renamed to /workspace/.vscode-remote/extensions/vscjava.vscode-java-dependency-0.24.1-universal
+2025-08-30 22:28:33.583 [info] Extension installed successfully: vscjava.vscode-java-dependency file:///workspace/.vscode-remote/extensions/extensions.json
+2025-08-30 22:28:33.981 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2025-08-30 22:28:34.277 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":true,"installPreReleaseVersion":false,"context":{"skipPublisherTrust":true},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/workspace/.vscode-remote/extensions/extensions.json","external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"}}
+2025-08-30 22:28:34.277 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-slideshow
+2025-08-30 22:28:34.647 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.6-universal: ms-toolsai.vscode-jupyter-slideshow
+2025-08-30 22:28:34.653 [info] Renamed to /workspace/.vscode-remote/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.6-universal
+2025-08-30 22:28:34.684 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow file:///workspace/.vscode-remote/extensions/extensions.json
+2025-08-30 22:28:35.035 [info] Getting Manifest... ms-python.isort
+2025-08-30 22:28:35.351 [info] Installing extension: ms-python.isort {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":true,"installPreReleaseVersion":false,"context":{"skipPublisherTrust":true},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/workspace/.vscode-remote/extensions/extensions.json","external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"}}
+2025-08-30 22:28:35.351 [info] Installing the extension without checking dependencies and pack ms-python.isort
+2025-08-30 22:28:36.152 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/ms-python.isort-2023.11.0-dev-universal: ms-python.isort
+2025-08-30 22:28:36.173 [info] Renamed to /workspace/.vscode-remote/extensions/ms-python.isort-2023.11.0-dev-universal
+2025-08-30 22:28:36.199 [info] Extension installed successfully: ms-python.isort file:///workspace/.vscode-remote/extensions/extensions.json
+2025-08-30 22:28:36.542 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2025-08-30 22:28:36.845 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":true,"installPreReleaseVersion":false,"context":{"skipPublisherTrust":true},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/workspace/.vscode-remote/extensions/extensions.json","external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"}}
+2025-08-30 22:28:36.845 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-cell-tags
+2025-08-30 22:28:37.239 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.9-universal: ms-toolsai.vscode-jupyter-cell-tags
+2025-08-30 22:28:37.244 [info] Renamed to /workspace/.vscode-remote/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.9-universal
+2025-08-30 22:28:37.261 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags file:///workspace/.vscode-remote/extensions/extensions.json
+2025-08-30 22:28:37.655 [info] Getting Manifest... redhat.java
+2025-08-30 22:28:37.973 [info] Installing extension: redhat.java {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":true,"installPreReleaseVersion":false,"context":{"skipPublisherTrust":true},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/workspace/.vscode-remote/extensions/extensions.json","external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"}}
+2025-08-30 22:28:37.973 [info] Installing the extension without checking dependencies and pack redhat.java
+2025-08-30 22:28:40.965 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/redhat.java-1.44.0-universal: redhat.java
+2025-08-30 22:28:40.979 [info] Renamed to /workspace/.vscode-remote/extensions/redhat.java-1.44.0-universal
+2025-08-30 22:28:41.003 [info] Extension installed successfully: redhat.java file:///workspace/.vscode-remote/extensions/extensions.json
+2025-08-30 22:28:51.278 [info] Getting Manifest... vscjava.vscode-java-dependency
+2025-08-30 22:28:51.278 [info] Getting Manifest... vscjava.vscode-java-test
+2025-08-30 22:28:51.278 [info] Getting Manifest... vscjava.vscode-maven
+2025-08-30 22:28:51.278 [info] Getting Manifest... vscjava.vscode-java-debug
+2025-08-30 22:28:51.278 [info] Getting Manifest... vscjava.vscode-java-pack
+2025-08-30 22:28:51.278 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2025-08-30 22:28:51.279 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2025-08-30 22:28:51.641 [info] Getting Manifest... ms-python.debugpy
+2025-08-30 22:28:52.216 [info] Getting Manifest... redhat.java
+2025-08-30 22:28:52.347 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":true,"pinned":true,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"fsPath":"/workspace/.vscode-remote/extensions/extensions.json","external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"isApplicationScoped":true,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"}}
+2025-08-30 22:28:52.348 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":true,"pinned":true,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"isApplicationScoped":false,"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"}}
+2025-08-30 22:28:52.348 [info] Installing extension: vscjava.vscode-java-test {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"isApplicationScoped":false,"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"}}
+2025-08-30 22:28:52.348 [info] Installing extension: vscjava.vscode-java-debug {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"isApplicationScoped":false,"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"}}
+2025-08-30 22:28:52.349 [info] Installing extension: vscjava.vscode-java-dependency {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"isApplicationScoped":false,"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"}}
+2025-08-30 22:28:52.349 [info] Installing extension: vscjava.vscode-java-pack {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"isApplicationScoped":false,"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"}}
+2025-08-30 22:28:52.349 [info] Installing extension: vscjava.vscode-maven {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"isApplicationScoped":false,"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"}}
+2025-08-30 22:28:52.349 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"isApplicationScoped":false,"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"}}
+2025-08-30 22:28:52.350 [info] Installing extension: redhat.java {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"isApplicationScoped":false,"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"}}
+2025-08-30 22:28:52.350 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-slideshow
+2025-08-30 22:28:52.350 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-cell-tags
+2025-08-30 22:28:52.350 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-test
+2025-08-30 22:28:52.350 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-debug
+2025-08-30 22:28:52.350 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-dependency
+2025-08-30 22:28:52.350 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-pack
+2025-08-30 22:28:52.350 [info] Installing the extension without checking dependencies and pack vscjava.vscode-maven
+2025-08-30 22:28:52.350 [info] Installing the extension without checking dependencies and pack ms-python.debugpy
+2025-08-30 22:28:52.350 [info] Installing the extension without checking dependencies and pack redhat.java
+2025-08-30 22:28:52.656 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5-universal: ms-toolsai.vscode-jupyter-slideshow
+2025-08-30 22:28:52.660 [info] Renamed to /workspace/.vscode-remote/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5-universal
+2025-08-30 22:28:52.671 [info] Marked extension as removed ms-toolsai.vscode-jupyter-slideshow-0.1.6-universal
+2025-08-30 22:28:52.968 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.6-universal: ms-toolsai.vscode-jupyter-cell-tags
+2025-08-30 22:28:52.973 [info] Renamed to /workspace/.vscode-remote/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.6-universal
+2025-08-30 22:28:52.992 [info] Marked extension as removed ms-toolsai.vscode-jupyter-cell-tags-0.1.9-universal
+2025-08-30 22:28:53.745 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/ms-python.debugpy-2025.6.0-linux-x64: ms-python.debugpy
+2025-08-30 22:28:53.768 [info] Renamed to /workspace/.vscode-remote/extensions/ms-python.debugpy-2025.6.0-linux-x64
+2025-08-30 22:28:53.788 [info] Extension installed successfully: vscjava.vscode-java-test file:///workspace/.vscode-remote/extensions/extensions.json
+2025-08-30 22:28:53.788 [info] Extension installed successfully: vscjava.vscode-java-debug file:///workspace/.vscode-remote/extensions/extensions.json
+2025-08-30 22:28:53.788 [info] Extension installed successfully: vscjava.vscode-java-dependency file:///workspace/.vscode-remote/extensions/extensions.json
+2025-08-30 22:28:53.789 [info] Extension installed successfully: vscjava.vscode-java-pack file:///workspace/.vscode-remote/extensions/extensions.json
+2025-08-30 22:28:53.789 [info] Extension installed successfully: vscjava.vscode-maven file:///workspace/.vscode-remote/extensions/extensions.json
+2025-08-30 22:28:53.789 [info] Extension installed successfully: redhat.java file:///workspace/.vscode-remote/extensions/extensions.json
+2025-08-30 22:28:53.789 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow file:///workspace/.vscode-remote/extensions/extensions.json
+2025-08-30 22:28:53.789 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags file:///workspace/.vscode-remote/extensions/extensions.json
+2025-08-30 22:28:53.789 [info] Extension installed successfully: ms-python.debugpy file:///workspace/.vscode-remote/extensions/extensions.json
+2025-08-30 22:56:22.564 [info] Getting Manifest... redhat.java
+2025-08-30 22:56:23.093 [info] Installing extension: redhat.java {"productVersion":{"version":"1.102.3","date":"2025-07-31T20:16:53.380Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/workspace/.vscode-remote/extensions/extensions.json","external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"}}
+2025-08-30 22:56:23.238 [info] Extension installed successfully: redhat.java file:///workspace/.vscode-remote/extensions/extensions.json
